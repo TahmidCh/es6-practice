@@ -1,0 +1,1 @@
+const nayok = {name:"Rakib Khan",age:25}
